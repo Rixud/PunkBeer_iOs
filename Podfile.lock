@@ -1,0 +1,30 @@
+PODS:
+  - Gifu (3.3.1)
+  - ImageSlideshow/Core (1.9.2)
+  - ImageSlideshow/Kingfisher (1.9.2):
+    - ImageSlideshow/Core
+    - Kingfisher (> 3.0)
+  - Kingfisher (6.3.1)
+  - MarqueeLabel (4.3.0)
+
+DEPENDENCIES:
+  - Gifu
+  - ImageSlideshow/Kingfisher
+  - MarqueeLabel
+
+SPEC REPOS:
+  trunk:
+    - Gifu
+    - ImageSlideshow
+    - Kingfisher
+    - MarqueeLabel
+
+SPEC CHECKSUMS:
+  Gifu: 416d4e38c4c2fed012f019e0a1d3ffcb58e5b842
+  ImageSlideshow: be305b54eaf2b2cfc7a7141c7c734605d44dc07d
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  MarqueeLabel: 02f5ac8fd6877c94564556cb93fa86c70c08baeb
+
+PODFILE CHECKSUM: 3d478c46293f8e18ea225783802c589e9b7b30a1
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,13 @@
+## User settings
+xcuserdata/
+Pods/
+
+*.DS_Store
+
+
+## App packaging
+*.ipa
+
+.build/
+
+O2OTest 2021-10-06 17-12-31/
